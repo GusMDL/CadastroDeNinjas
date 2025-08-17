@@ -33,7 +33,7 @@ public class NinjaModel {
     @Column(name = "img_url")
     private String imgUrl;
 
-    @Column(name = "id")
+    @Column(name = "idade")
     private int idade;
 
     //@ManyToOne = Uma missão poderá ter vários ninjas
